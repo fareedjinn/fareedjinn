@@ -2,7 +2,7 @@
 
 I am a developer with a strong passion for Software Engineering, Data Science, and building intelligent systems.
 
-**🌱 Currently studying Machine Learning algorithms Logistic Regression, Naive Bayes
+🌱 Currently studying Machine Learning algorithms Logistic Regression, Naive Bayes
 
 **🛠️ Languages and Tools:**
 
@@ -29,4 +29,4 @@ mohammedfareed.dev@gmail.com
 
 ---
 
-*"An algorithm must be seen to be believed."*
+An algorithm must be seen to be believed.
