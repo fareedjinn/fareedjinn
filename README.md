@@ -12,7 +12,7 @@ I am a developer with a strong passion for Software Engineering, Data Science, a
 
 * **Tools:**
   <br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,github,antigravity" alt="Tools" align="absmiddle" /> <b>&nbsp; 
+  <img src="https://skillicons.dev/icons?i=git,vscode,github,anaconda," alt="Tools" align="absmiddle" /> <b>&nbsp; 
 <br><br>
 
 📩 Contact me
